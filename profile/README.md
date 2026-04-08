@@ -11,13 +11,13 @@
 
 ### [Caracal](https://github.com/Garudex-Labs/caracal)
 
-**Pre-execution authority enforcement** for AI agents that control delegated actions—with **real-time revocation** and **immutable proof**.
+**Pre-execution authority enforcement** for AI agents that control delegated actions with **real-time revocation** and **immutable proof**.
 
-Caracal ensures nothing executes without valid authority at the moment decisions become impact: cryptographically verifiable execution mandates, bounded delegation, and enforcement across single- and multi-agent workflows. Learn more on the [Caracal product page](https://garudexlabs.com).
+Caracal ensures nothing executes without valid authority at the moment decisions become impact: cryptographically verifiable execution mandates, bounded delegation, and enforcement across single and multi-agent workflows. Learn more on the [here](https://caracal.run).
 
 ### [Secure Contract Machine (SCM)](https://github.com/Garudex-Labs/secure-contract-machine)
 
-A **containerized environment** where an AI agent can **negotiate security policy**, run **containerized actions** under those constraints, and produce **cryptographically verifiable audit records**—supporting **multi-agent coordination** with an evidence trail you can reason about.
+A **containerized environment** where an AI agent can **negotiate security policy**, run **containerized actions** under those constraints, and produce **cryptographically verifiable audit records** supporting **multi-agent coordination** with an evidence trail you can reason about.
 
 ---
 
